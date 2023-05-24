@@ -2,6 +2,8 @@
 from datetime import datetime
 
 from django.http import HttpResponse
+from django.shortcuts import render
+
 
 def index(request):
     now = datetime.now()
@@ -14,3 +16,6 @@ def index(request):
     </html>
     '''
     return HttpResponse(html)
+
+def home(request):
+    return render(request, 'index.html')
