@@ -54,7 +54,7 @@ You can use the following badges to showcase your Vercel deployment status:
 
 [![Vercel](https://vercelbadge.vercel.app/api/YourUsername/vercel_deployment)](https://vercel.com/YourUsername/vercel_deployment)
 
-Replace `YourUsername` with your Vercel account username and `vercel_deployment` with the actual repository name.
+Replace `NagiPragalathan` with your Vercel account username and `nagipragalathan` with the actual repository name.
 
 ## Contributing
 
