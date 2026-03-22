@@ -4,7 +4,7 @@
 
 This is a sample repository demonstrating how to deploy a Django project on Vercel. By using Vercel, you can easily deploy your Django application and make it accessible on the web.
 
-## Prerequisites:
+## Prerequisites: 
 
 Before getting started, make sure you have the following:
 
